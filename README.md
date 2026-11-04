@@ -1,5 +1,7 @@
 # Campivo
 
+> 📘 **Case study:** [raqueeb.dev/projects/student-life-manager](https://raqueeb.dev/projects/student-life-manager) — architecture, stack and implementation notes.
+
 A personal academic dashboard: subjects, assignments, exams, timetable,
 attendance, notes, marks and study progress in one place, backed by PostgreSQL.
 
